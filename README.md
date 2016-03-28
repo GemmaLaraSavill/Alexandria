@@ -10,7 +10,7 @@ Was given the starter code to debug and improve.
 4. Corrected errors.
 5. Changed UI: changed Navigation Fragment for NavigationView with header and menu. Added CardViews and GridLayout. Material Design theme.
 
-## Instalation
+## Installation
 
 Clone the code and import it as a project into [Android Studio](http://developer.android.com/intl/es/tools/studio/index.html)
 
