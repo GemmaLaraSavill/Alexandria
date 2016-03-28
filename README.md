@@ -1,7 +1,6 @@
 # Alexandria
 
 A book list and barcode scanner app.
-It shows the matches of UK's Premier League and La Liga from Spain.
 Developed as part of my [Android Developer Nanodegree](https://www.udacity.com/nanodegree) at [Udacity](https://www.udacity.com/nanodegree).
 Was given the starter code to debug and improve.
 
