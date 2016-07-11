@@ -1,7 +1,7 @@
 # Alexandria
 
 A book list and barcode scanner app.
-Developed as part of my [Android Developer Nanodegree](https://www.udacity.com/nanodegree) at [Udacity](https://www.udacity.com/nanodegree).
+Developed as part of my [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) at [Udacity](https://www.udacity.com/nanodegree).
 Was given the starter code to debug and improve.
 
 1. Integrated barcode scanning from the camera preview using [Android Vision API](https://developers.google.com/vision/barcodes-overview). I have used code from sample at https://github.com/googlesamples/android-vision
